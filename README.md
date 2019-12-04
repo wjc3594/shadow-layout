@@ -15,6 +15,6 @@ In the build.gradle of app:
 ```
 dependencies {
     ...
-    implementation 'com.github.dmytrodanylyk.shadow-layout:library:1.0.3'
+    implementation 'com.github.wjc3594:shadow-layout:1.0'
 }
 ```
